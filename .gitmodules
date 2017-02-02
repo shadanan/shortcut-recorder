@@ -1,0 +1,3 @@
+[submodule "KeyboardShortcut"]
+	path = KeyboardShortcut
+	url = git@github.com:shadanan/keyboard-shortcut.git
